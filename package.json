@@ -48,6 +48,6 @@
   },
   "dependencies": {
     "lodash": "^4.16.4",
-    "vizceral": "~4.4.0"
+    "vizceral": "https://github.com/nab0310/vizceral/tarball/master"
   }
 }
